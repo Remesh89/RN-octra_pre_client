@@ -2,3 +2,4 @@ Sat done
 sunday
 mon
 wed
+sundy
